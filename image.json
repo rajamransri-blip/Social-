@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Dua of Musa (A.S) - For Goodness",
+    "imageUrl": "https://raw.githubusercontent.com/rajamransri-blip/DuayeApp/main/images/musa_dua.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/rajamransri-blip/DuayeApp/main/audios/musa_dua.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Four Protections (Grave, Hell, Life/Death, Dajjal)",
+    "imageUrl": "https://raw.githubusercontent.com/rajamransri-blip/DuayeApp/main/images/four_protections.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/rajamransri-blip/DuayeApp/main/audios/four_protections.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Dua for Parents (Surah Al-Isra)",
+    "imageUrl": "https://raw.githubusercontent.com/rajamransri-blip/DuayeApp/main/images/parents_dua.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/rajamransri-blip/DuayeApp/main/audios/parents_dua.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Dua for Ease in Task (Surah Taha)",
+    "imageUrl": "https://raw.githubusercontent.com/rajamransri-blip/DuayeApp/main/images/ease_task_dua.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/rajamransri-blip/DuayeApp/main/audios/ease_task_dua.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Dua for Righteous Offspring (Surah Al-Furqan)",
+    "imageUrl": "https://raw.githubusercontent.com/rajamransri-blip/DuayeApp/main/images/family_dua.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/rajamransri-blip/DuayeApp/main/audios/family_dua.mp3"
+  }
+]
